@@ -1,0 +1,16 @@
+var locals = {
+	title: 'An example',
+	people: {
+		{name: 'Gandalf'},
+		{name: 'Frodo'},
+		{name: 'Harry Potter'}
+	}
+};
+
+swig.renderFile('./index.html', {}, function(err,output){
+	if (err){
+		throw err;
+	} else {
+
+	}
+})
