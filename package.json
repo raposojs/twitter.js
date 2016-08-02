@@ -1,0 +1,19 @@
+{
+  "name": "twitter.js",
+  "version": "1.0.0",
+  "description": "Simple Twitter clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raposojs/twitter.js.git"
+  },
+  "author": "Bruno and Nat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raposojs/twitter.js/issues"
+  },
+  "homepage": "https://github.com/raposojs/twitter.js#readme"
+}
